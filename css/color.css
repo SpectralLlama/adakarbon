@@ -36,7 +36,8 @@
 }
 .latest-project .single-block .overlay,.theme-counter-section .overlay,.our-portfolio .single-block .overlay,
 .theme-sidebar .sidebar-latest-news .single-latest-news .img-box .overlay {
-	background: rgba(82,185,85,0.9);
+	/* background: rgba(82,185,85,0.9); */
+  background: rgba(31,31,31,0.8);
 }
 .partner-section-one .overlay,.service-style-two .single-block .overlay {
 	background: rgba(82,185,85,0.7);
